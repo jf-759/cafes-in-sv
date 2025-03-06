@@ -11,7 +11,7 @@ function CoffeeShopDetails(props) {
   return (
     <div className="CoffeeShopDetails">
       <div className="CoffeeShopDetails-image">
-        <img src={`/images/${images}`} alt="" />
+        <img src={`${process.env.PUBLIC_URL}/images/${images}`} />
       </div>
       <div className="CoffeeShopDetails-info">
         <h1 className="CoffeeShopDetails-title">{ title }</h1>
