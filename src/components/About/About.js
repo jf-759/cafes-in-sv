@@ -1,8 +1,9 @@
 import React from 'react';
+import './About.css';
 
 function About() {
   return (
-    <div>
+    <div className="about-container">
       <h1>About</h1>
       <p>These are different coffee shops located in 
         Silicon Valley. All the coffee shops provided are wildly
