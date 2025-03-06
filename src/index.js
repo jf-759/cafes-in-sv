@@ -3,6 +3,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client'
 import './index.css';
 import App from './components/App';
+import CafeList from './components/CafeList/CafeList'
 import About from './components/About/About';
 import CoffeeShopDetails from './components/CoffeeShopDetails/CoffeeShopDetails';
 import reportWebVitals from './reportWebVitals';
@@ -15,6 +16,7 @@ root.render(
   <Router>
     <Routes>
       <Route path="/" element={<App />}>
+      <Route path="/" element={<CafeList />} />
         <Route path="about" element={<About />} />
         <Route path="/details/:id" element={<CoffeeShopDetails />} />
       </Route>
