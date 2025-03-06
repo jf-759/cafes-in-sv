@@ -3,7 +3,7 @@
        "title":"Coffee Water Lab",
        "desc":"Located in...",
        "address":"603 Saratoga Ave #40, San Jose, CA",
-       "hours": "Mon - Fri 7am - 5:30pm",
+       "hours": "Mon - Thurs 7am - 6pm, Fri - Sun 7am - 7pm",
        "geo":{
           "lat":37.31581,
           "lon":-121.97642
@@ -16,6 +16,203 @@
           "roasted single-origin beans",
           "coffee"
        ]
-    }
-    
+    },
+    {
+        "title":"Caffe Bene",
+        "desc":"Located in...",
+        "address":"181 E Tasman Drive, San Jose, CA",
+        "hours": "Sun - Sat 9am - 8pm",
+        "geo":{
+           "lat":37.41291,
+           "lon":-121.93751
+        },
+        "images":[
+           "caffe-bene.jpg"
+        ],
+        "website":"https://caffebenesanjose.com/",
+        "features":[
+           "fair trade, local suppliers and bakeries",
+           "tea & coffee"
+        ]
+     },    
+     {
+        "title":"Chromatic Coffee Co.",
+        "desc":"Located in...",
+        "address":"460 Lincoln Ave #10",
+        "hours": "Mon - Thurs 8am - 3pm, Fri - Sun 8am - 5pm",
+        "geo":{
+           "lat":37.32089,
+           "lon":-121.90701
+        },
+        "images":[
+           "chromatic-coffee-co.jpg"
+        ],
+        "website":"https://www.chromaticcoffee.com/",
+        "features":[
+           "more than a morning ritual",
+           "coffee"
+        ]
+     },    
+     {
+        "title":"Cloud9 Coffee",
+        "desc":"Located in...",
+        "address":"1901 Embarcadero Rd. #103, Palo Alto, CA",
+        "hours": "Mon - Sat 8am - 3pm",
+        "geo":{
+           "lat":37.45447,
+           "lon":-121.11430
+        },
+        "images":[
+           "cloud9-coffee.jpg"
+        ],
+        "website":"https://cloud9coffee.net/",
+        "features":[
+           "classics",
+           "coffee"
+        ]
+     },    
+     {
+        "title":"Crema Coffee Roasting Company",
+        "desc":"Located in...",
+        "address":"1202 The Alameda, San Jose, CA",
+        "hours": "Mon - Sun 7am - 3pm",
+        "geo":{
+           "lat":37.33179,
+           "lon":-121.91102
+        },
+        "images":[
+           "crema-coffee-roasting-company.jpg"
+        ],
+        "website":"https://www.instagram.com/cremacoffee.co/?hl=en",
+        "features":[
+           "cozy ambiance",
+           "coffee"
+        ]
+     },
+     {
+        "title":"Lacàphê",
+        "desc":"Located in...",
+        "address":"740 Story Rd. #5, San Jose, CA",
+        "hours": "Mon - Fri 7am - 6pm, Sat - Sun 9am - 7pm",
+        "geo":{
+           "lat":37.32889,
+           "lon":-121.85749
+        },
+        "images":[
+           "lacaphe.jpg"
+        ],
+        "website":"https://lacaphe.square.site/#A3WGS5PKAFPATKZ6FR55KXCU",
+        "features":[
+           "Vietnamese Coffe Shop",
+           "coffee & tea"
+        ]
+     },
+     {
+        "title":"Nirvana Soul Coffee",
+        "desc":"Located in...",
+        "address":"315 S 1st St.",
+        "hours": "Mon - Thurs, Sat 7am - 7pm, Fri 7am - 9pm, Sun 7am - 2pm",
+        "geo":{
+           "lat":37.33128,
+           "lon":-121.88608
+        },
+        "images":[
+           "nirvana-soul-coffee.jpg"
+        ],
+        "website":"https://www.nirvanasoulcoffee.com/",
+        "features":[
+           "mission is to bring people together",
+           "coffee & tea"
+        ]
+     },
+     {
+        "title":"Voltaire Coffee Roasters",
+        "desc":"Located in...",
+        "address":"360 S Market St. #80",
+        "hours": "Mon - Fri 7am - 5:30pm",
+        "geo":{
+           "lat":37.31581,
+           "lon":-121.97642
+        },
+        "images":[
+           "voltaire-coffee-roasters.jpg"
+        ],
+        "website":"https://www.voltairecoffeeroasters.com/",
+        "features":[
+           "roasting beans in house, sourcing from fair-trade markets",
+           "coffee"
+        ]
+     },
+     {
+        "title":"Voyager Craft Coffee",
+        "desc":"Located in...",
+        "address":"2221 The Alameda, Santa Clara, CA",
+        "hours": "Mon - Sun 7am - 5pm",
+        "geo":{
+           "lat":37.34459,
+           "lon":-121.93153
+        },
+        "images":[
+           "voyager-craft-coffee.jpg"
+        ],
+        "website":"https://www.voyagercraftcoffeeorders.com/",
+        "features":[
+           "community-minded non-profits, fair and sustainable",
+           "coffee"
+        ]
+     },
+     {
+        "title":"Bitter+Sweet",
+        "desc":"Located in...",
+        "address":"20560 Town Center Ln, Cupertino, CA",
+        "hours": "Mon - Fri: 8 am - 5 pm Sat: 8 am - 6 pm Sun: 8 am - 5 pm",
+        "geo":{
+           "lat":37.31854,
+           "lon":-121.02961
+        },
+        "images":[
+           "bitter-sweet.jpg"
+        ],
+        "website":"https://brewbytescafe.com/",
+        "features":[
+           "edgy & modern",
+           "coffee & art"
+        ]
+     },
+     {
+        "title":"Covour Coffee",
+        "desc":"Located in...",
+        "address":"2706 Middlefield Rd., Palo Alto, CA",
+        "hours": "Mon - Fri 8am - 4pm, Sat - Sun 8am - 2pm",
+        "geo":{
+           "lat":37.43340,
+           "lon":-121.12850
+        },
+        "images":[
+           "covour-coffee.jpg"
+        ],
+        "website":"https://www.covourcoffee.com/",
+        "features":[
+           "neighborhood coffee",
+           "coffee"
+        ]
+     },
+     {
+        "title":"1 Oz Coffee",
+        "desc":"Located in...",
+        "address":"549 Benton St.",
+        "hours": "Mon - Fri 7am - 5pm",
+        "geo":{
+           "lat":37.35305,
+           "lon":-121.93845
+        },
+        "images":[
+           "one-oz-coffee.jpg"
+        ],
+        "website":"https://www.1ozcoffee.com/",
+        "features":[
+           "simple & traditional",
+           "coffee"
+        ]
+     }
 ]
