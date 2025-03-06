@@ -1,15 +1,13 @@
 .RandomCoffeeShop {
     display: inline-block;
-    padding: 0.5em 1em;
-    color: rgba(255, 255, 255, 0.835);
+    padding: 0.75em 1.5em;
+    color: rgba(255, 255, 255, 0.9);
     font-weight: bold;
-    text-decoration: none;
     background-color: #70483a;
     border: none;
     text-align: center;
-    border-radius: 4px;
-    transition: background-color 0.3s, color 0.3s;
-    font-weight: bold;
+    border-radius: 8px;
     font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
-

@@ -1,9 +1,8 @@
-.footer {
+footer {
+    margin-top: auto; /* Pushes footer to the bottom */
+    width: 100%; /* Ensures the footer stretches across the page */
     text-align: center;
-    padding: 5px;
     background-color: #70483a;
     color: white;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
+    padding: 10px;
+  }
