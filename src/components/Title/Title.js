@@ -6,7 +6,7 @@ function Title() {
   return (
     <div className="Title">
       <header>
-        <h1>Coffee Shops</h1>
+        <h1 className="CoffeeShop-h1">Coffee Shops</h1>
         <div className="Title-Subtitle">in Silicon Valley</div>
 
         <div>

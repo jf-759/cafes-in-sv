@@ -18,9 +18,7 @@ function CoffeeShopDetails(props) {
         <p className="CoffeeShopDetails-desc">{ desc }</p>
         <p className="CoffeeShopDetails-hours">{ hours }</p>
         <p className="CoffeeShopDetails-features">{ features }</p>
-        <p className="CoffeeShopDetails-geo">{ geo.lat } { geo.lon }</p>
-        <p className="CoffeeShopDetails-geo">{ geo.lat }</p>
-        
+        <p className="CoffeeShopDetails-geo">{ geo.lat } { geo.lon }</p> 
       </div>
     </div>
   )
