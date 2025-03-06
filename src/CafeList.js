@@ -1,3 +1,4 @@
+import data from './coffeeshops-data.json'
 import CoffeeShop from './CoffeeShop';
 import './CafeList.css';
 

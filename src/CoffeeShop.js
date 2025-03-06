@@ -1,7 +1,7 @@
 function CoffeeShop(props) {
     const { name, image, address } = props
     return (
-        <div>
+        <div className="CoffeeShop">
             <img src={`${process.env.PUBLIC_URL}/images/${image}`}     
                 width="300"
                 height="300"
