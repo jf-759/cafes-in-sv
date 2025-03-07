@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cafes-in-sv/static/css/main.20110e34.css",
-    "main.js": "/cafes-in-sv/static/js/main.287adb1c.js",
+    "main.css": "/cafes-in-sv/static/css/main.9937d96f.css",
+    "main.js": "/cafes-in-sv/static/js/main.53a6823f.js",
     "static/js/453.9b7735b7.chunk.js": "/cafes-in-sv/static/js/453.9b7735b7.chunk.js",
     "index.html": "/cafes-in-sv/index.html",
-    "main.20110e34.css.map": "/cafes-in-sv/static/css/main.20110e34.css.map",
-    "main.287adb1c.js.map": "/cafes-in-sv/static/js/main.287adb1c.js.map",
+    "main.9937d96f.css.map": "/cafes-in-sv/static/css/main.9937d96f.css.map",
+    "main.53a6823f.js.map": "/cafes-in-sv/static/js/main.53a6823f.js.map",
     "453.9b7735b7.chunk.js.map": "/cafes-in-sv/static/js/453.9b7735b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20110e34.css",
-    "static/js/main.287adb1c.js"
+    "static/css/main.9937d96f.css",
+    "static/js/main.53a6823f.js"
   ]
 }
