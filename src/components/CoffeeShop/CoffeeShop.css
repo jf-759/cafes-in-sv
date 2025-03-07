@@ -21,15 +21,15 @@
     color: #b5651d;
 }
 
-.CoffeeShop h1 {
-  display: block;
-  position: absolute;
+.CoffeeShop-h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   left: 0;
   top: 0;
-  margin: 0;
-  font-weight: lighter;
-  background-color: rgba(255, 255, 255, 0.75);
-  padding: 1rem;
+  margin: auto;
+  font-weight: bolder;
+  padding: 1rem 0 0 1rem; 
   text-align: left;
   max-width: 80%;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
@@ -49,25 +49,16 @@
 .CoffeeShop .CoffeeShop-info div {
   display: inline-block;
   padding: 0.5em 0.75em;
-  background-color: rgba(255, 255, 255, 0.9);
-  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5px 0 0 5px;
 }
 
-/* Responsive design for mobile screens */
-@media only screen and (max-width: 700px) {
-    .CoffeeShop h1 {
-        font-size: 1.2rem;
-        padding: 0.5rem;
-        max-width: 100%;
-    }
+.Title-Subtitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 0.25rem 0 0 1rem;
+    font-style: italic;
 
-    .CoffeeShop .CoffeeShop-info {
-        font-size: 0.8rem;
-        right: 10px;
-        bottom: 10px;
-    }
-
-    .CoffeeShop .CoffeeShop-info div {
-        padding: 0.4em 0.6em;
-    }
 }

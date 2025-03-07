@@ -1,7 +1,7 @@
 [
     {
        "title":"Coffee Water Lab",
-       "desc":"Located in...",
+       "desc":"At Coffee Water Lab, their space was made to feel comfortable. They roast single-origin coffee beans on a zero-emissions roaster, and use harmonzied mineral-infused water to make memorable experiences for any customer.",
        "address":"603 Saratoga Ave #40, San Jose, CA",
        "hours": "Mon - Thurs 7am - 6pm, Fri - Sun 7am - 7pm",
        "geo":{
@@ -18,7 +18,7 @@
     },
     {
         "title":"Caffe Bene",
-        "desc":"Located in...",
+        "desc":"With a cozy and modern enviornment, and a dedication to quality, Caffe Bene provides organic, fair traid tea and coffee. They also work with local dairy suppliers and bakeries to source the freshest, highest quality food and drink options.",
         "address":"181 E Tasman Drive, San Jose, CA",
         "hours": "Sun - Sat 9am - 8pm",
         "geo":{
@@ -35,8 +35,8 @@
      },    
      {
         "title":"Chromatic Coffee Co.",
-        "desc":"Located in...",
-        "address":"460 Lincoln Ave #10",
+        "desc":"Chromatic Coffee Co. all started with a question, 'What if coffee could be more than just a morning ritual?' They created an environment filled with community.",
+        "address":"460 Lincoln Ave #10, San Jose, CA",
         "hours": "Mon - Thurs 8am - 3pm, Fri - Sun 8am - 5pm",
         "geo":{
            "lat":37.32089,
@@ -52,7 +52,7 @@
      },    
      {
         "title":"Cloud9 Coffee",
-        "desc":"Located in...",
+        "desc":"Cloud9 Coffee was created to make every cup feel a blend of coffee each stand out on their own, while maintaining traditional values in coffee.",
         "address":"1901 Embarcadero Rd. #103, Palo Alto, CA",
         "hours": "Mon - Sat 8am - 3pm",
         "geo":{
@@ -69,7 +69,7 @@
      },    
      {
         "title":"Crema Coffee Roasting Company",
-        "desc":"Located in...",
+        "desc":"Crema Coffee Roasting Company gives a unique, eclectic coffee brewhouse look, with plenty of seating, and delicious food to eat.",
         "address":"1202 The Alameda, San Jose, CA",
         "hours": "Mon - Sun 7am - 3pm",
         "geo":{
@@ -81,12 +81,12 @@
         ],
         "website":"https://www.instagram.com/cremacoffee.co/?hl=en",
         "features":[
-           "cozy ambiance"
+           "unique & eclectic"
         ]
      },
      {
         "title":"Lacàphê",
-        "desc":"Located in...",
+        "desc":"Located in East San Jose, this coffee shop prides themselves with delicious Vietnamese Coffee, different teas, and offers a modern, and sleek vibe inside.",
         "address":"740 Story Rd. #5, San Jose, CA",
         "hours": "Mon - Fri 7am - 6pm, Sat - Sun 9am - 7pm",
         "geo":{
@@ -103,8 +103,8 @@
      },
      {
         "title":"Nirvana Soul Coffee",
-        "desc":"Located in...",
-        "address":"315 S 1st St.",
+        "desc":"Two sisters created this coffee shop to bring people together through the power of coffee and tea. The pride themselves in their core values of being kind, inspired, trustworthy, customer-centric, and accountable.",
+        "address":"315 S 1st St., San Jose, CA",
         "hours": "Mon - Thurs, Sat 7am - 7pm, Fri 7am - 9pm, Sun 7am - 2pm",
         "geo":{
            "lat":37.33128,
@@ -120,8 +120,8 @@
      },
      {
         "title":"Voltaire Coffee Roasters",
-        "desc":"Located in...",
-        "address":"360 S Market St. #80",
+        "desc":"Located in the heart of Downtown San Jose, Voltaire offers in-house roasted coffee beans, sourcing them directly from fair-trade markets, and providing unique coffee flavors, and delicious foods.",
+        "address":"360 S Market St. #80, San Jose, CA",
         "hours": "Mon - Fri 7am - 5:30pm",
         "geo":{
            "lat":37.31581,
@@ -137,7 +137,7 @@
      },
      {
         "title":"Voyager Craft Coffee",
-        "desc":"Located in...",
+        "desc":"With multiple locations, Voyager Craft Coffee source, roast, brew, and serve delicious coffee. The choose to pay double the commodity price in their coffee greens to ensure fair and sustainable livelihoods. They also pride themselves with working with community-minded, non-profit organizations.",
         "address":"2221 The Alameda, Santa Clara, CA",
         "hours": "Mon - Sun 7am - 5pm",
         "geo":{
@@ -154,7 +154,7 @@
      },
      {
         "title":"Bitter+Sweet",
-        "desc":"Located in...",
+        "desc":"Located in the heart of Cupertino, Bitter+Sweet offers an edgy, modern space that allows you to enjoy coffee, non-caffinated lattes, pastries, and different art features on the walls with elaborate puzzles to enjoy.",
         "address":"20560 Town Center Ln, Cupertino, CA",
         "hours": "Mon - Fri: 8 am - 5 pm Sat: 8 am - 6 pm Sun: 8 am - 5 pm",
         "geo":{
@@ -171,7 +171,7 @@
      },
      {
         "title":"Covour Coffee",
-        "desc":"Located in...",
+        "desc":"A neighborhood coffee shop vibe, with exceptional quality coffee, Covour Cofeee provides sustainably sourced, hand quality coffee that gives rich, vibrant flavors for every cup.",
         "address":"2706 Middlefield Rd., Palo Alto, CA",
         "hours": "Mon - Fri 8am - 4pm, Sat - Sun 8am - 2pm",
         "geo":{
@@ -188,8 +188,8 @@
      },
      {
         "title":"1 Oz Coffee",
-        "desc":"Located in...",
-        "address":"549 Benton St.",
+        "desc":"A coffee shop that allows you to explore and learn everything about coffee. With new experiemental brewing and process methods, they pride themselves in trying new things almost every day.",
+        "address":"549 Benton St., Santa Clara, CA",
         "hours": "Mon - Fri 7am - 5pm",
         "geo":{
            "lat":37.35305,

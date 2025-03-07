@@ -3,9 +3,14 @@ import './About.css';
 
 
 function About() {
+
   return (
     <div className="about-container">
+      <div className="about-image">
+        <img src={`${process.env.PUBLIC_URL}/images/nathan-dumlao-coffee-unsplash.jpg`} alt=""/>
+      </div>
       <h1>About</h1>
+
       <p>These are different coffee shops located in 
         Silicon Valley. All the coffee shops provided are wildly
         different in taste, ambiance, and so much more. There are 
